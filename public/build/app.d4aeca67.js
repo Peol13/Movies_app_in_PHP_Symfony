@@ -1,0 +1,1 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[143],{144:(s,e,c)=>{"use strict";c(406)},406:()=>{console.log("12345")}},s=>{var e;e=144,s(s.s=e)}]);

@@ -1,0 +1,1 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[649],{421:()=>{alert("12345")}},e=>{var a;a=421,e(e.s=a)}]);
